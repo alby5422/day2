@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+.app {
+  background-image: url('ranger-4df6c1b6.png');
+  background-repeat: repeat; /* Adjust as needed */
+  background-size: cover; /* Adjust as needed */
+  width: 100vw;
+  height: 100vh;
+}
